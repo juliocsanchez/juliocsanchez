@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliocsanchez
 - 👀 I’m interested in opportunities for web and android development
-- 🌱 I’m currently learning java for android
+- 🌱 I’m currently learning java an flutter for android
 
 
 <!---
