@@ -1,8 +1,8 @@
 ## Hello, My Name it's Julio Sousa! 
 
 - 🤓 Front-End
-- 🧐 I’m interested in opportunities android development
-- 🌱 I’m currently learning java and kotlin for android
+- 🧐 I’m Interested in opportunities Android Development
+- 🌱 I’m Currently learning Java and Kotlin for Android
 
 <div>
   <a href="https;/github.com/juliocsanchez">
