@@ -3,9 +3,9 @@
 - 🤓 Front-End
 - 🧐 I’m Interested in opportunities Android Development
 - 🌱 I’m Currently learning Java and Kotlin for Android
-- 
+
 <p align="center">
-<a href="https://github.com/juliocsanchez"> <imgheight="180em"src="https://githubreadmestatseighttheta.vercel.app/apiusername=juliocsanchez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/juliocsanchez"> <imgheight="180em"src="https://githubreadmestatseighttheta.vercel.app/apiusername=juliocsanchez&show_icons=true&theme=radica&include_all_commits=true&count_private=true"/>
 </a>
 </p>
   
