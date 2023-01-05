@@ -1,6 +1,6 @@
 ### Hello, My Name it's Julio Sousa! 
 
-- 🤓 Front-End
+- 🤓 FullStack
 - 🧐 I’m Interested in opportunities Android Development
 - 🌱 I’m Currently learning Java and Kotlin for Android
 
