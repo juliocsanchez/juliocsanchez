@@ -2,7 +2,7 @@
 
 - 🤓 FullStack
 - 🧐 I’m Interested in opportunities Android Development
-- 🌱 I’m Currently learning Java and Kotlin for Android
+- 🌱 I’m Currently learning PHP Laravel for Back-End and Flutter for Android
 
 <p align="center">
 <a href="https://github.com/juliocsanchez"> 
