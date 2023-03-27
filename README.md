@@ -1,8 +1,5 @@
 ### Hello, My Name it's Julio Sousa! 
 
-- 🤓 FullStack
-- 🧐 I’m Interested in opportunities Android Development
-- 🌱 I’m Currently learning PHP Laravel for Back-End and Flutter for Android
 
 <p align="center">
 <a href="https://github.com/juliocsanchez"> 
